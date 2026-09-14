@@ -1,0 +1,12 @@
+{
+  "p_trigger_given_signal": 0.95,
+  "p_trigger_given_noise": 0.001,
+  "p_signal": 0.0001,
+  "n_trials": 2000000,
+  "p_trigger_analytic": 0.0010949,
+  "p_signal_given_trigger_analytic": 0.08676591469540598,
+  "n_triggers_observed": 2227,
+  "n_true_positive_triggers": 187,
+  "n_false_alarm_triggers": 2040,
+  "p_signal_given_trigger_empirical": 0.08396946564885496
+}

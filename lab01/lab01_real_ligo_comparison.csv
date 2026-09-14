@@ -1,0 +1,7 @@
+event,pipeline,far_value,far_years,far_per_year,significance_sigma,source
+GW150914,matched-filter (combined),1,203000.0,4.926108374384236e-06,5.1,"Abbott et al. 2016, PRL 116, 061102 (arXiv:1602.03839)"
+GW170814,"matched-filter, pipeline A",1,140000.0,7.142857142857143e-06,,"Abbott et al. 2017, PRL 119, 141101 (arXiv:1709.09660)"
+GW170814,"matched-filter, pipeline B",1,27000.0,3.7037037037037037e-05,,"Abbott et al. 2017, PRL 119, 141101 (arXiv:1709.09660)"
+GW170814,coherent unmodeled search (3-detector),1,5900.0,0.00016949152542372882,,"Abbott et al. 2017, PRL 119, 141101 (arXiv:1709.09660)"
+GW190814,GstLAL,1,1300.0,0.0007692307692307692,,"Abbott et al. 2020, ApJL 896, L44 (arXiv:2006.12611)"
+GW190814,extended PyCBC,1,8.1,0.1234567901234568,,"Abbott et al. 2020, ApJL 896, L44 (arXiv:2006.12611)"
